@@ -1,1 +1,1 @@
-['ATCH', 'AIRS', 'BIAF', 'EZFL', 'ENCPU', 'OCEA', 'PMEC', 'WAVD']
+['ATCH', 'AIRS', 'BIAF', 'EZFL', 'ENCPU', 'OCEA', 'PMEC']
