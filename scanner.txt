@@ -1,1 +1,1 @@
-['FRGT', 'ENCPU', 'ZVSA']
+['FRGT', 'ENCPU', 'TRNR']
