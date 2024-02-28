@@ -1,1 +1,1 @@
-['BETS', 'VTVT']
+['BETS', 'ADIL', 'VTVT']
